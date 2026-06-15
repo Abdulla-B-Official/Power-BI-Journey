@@ -8,7 +8,7 @@ A collection of **Power BI projects, dashboards, and business intelligence case 
 
 An interactive Power BI dashboard for analyzing **sales, profit, product performance, monthly trends, and target achievement**.
 
-📁 Folder: `Sales-Performance-Dashboard`
+📁 Folder: `Sales_Performance_Dashboard`
 
 ### Skills Used
 
