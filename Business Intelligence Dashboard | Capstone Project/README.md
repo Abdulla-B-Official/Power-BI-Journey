@@ -1,56 +1,56 @@
-#  Sales Performance Dashboard | Power BI
+#  Business Intelligence Dashboard | Capstone Project
 
-An interactive **Power BI dashboard** built to analyze **sales performance, profit, product trends, and monthly growth** using business intelligence techniques.
+An interactive **Power BI Capstone Dashboard** designed to analyze **business performance, KPIs, trends, and operational insights** using business intelligence and data visualization techniques.
 
 ##  Project Objective
 
-The goal of this project is to monitor and evaluate:
+The goal of this project is to analyze and monitor:
 
-* Total Sales & Profit
-* Quantity Sold
-* Monthly Sales Trends
-* Product Performance
-* Sales Growth Analysis
-* Target vs Actual Comparison
+* Business Performance Metrics
+* KPI Tracking & Analysis
+* Revenue & Profit Trends
+* Operational Performance
+* Data-Driven Decision Support
+* Business Insights & Reporting
 
-This dashboard helps businesses make **data-driven decisions** by tracking performance and identifying key growth opportunities.
+This dashboard helps organizations make **strategic decisions** by transforming raw business data into meaningful insights.
 
 ##  Key KPIs
 
-* **Total Sales:** 23M
-* **Total Profit:** 866K
-* **Quantity Sold:** 2542
-* **Average Unit Price:** 9.22K
-* **Profit Percentage:** 3.73%
+* **Business Performance Metrics**
+* **Revenue & Profit Analysis**
+* **Trend Monitoring**
+* **KPI Evaluation**
+* **Operational Insights**
+* **Performance Tracking**
 
 ### Business Questions
 
-* How do sales change month by month?
-* Which products perform best?
-* Are sales meeting targets?
-* What is the monthly sales growth?
-* How does performance vary over time?
+* How is overall business performance changing over time?
+* Which KPIs contribute most to business growth?
+* What trends and patterns can be identified?
+* How can performance be improved through insights?
+* Which business areas require attention?
 
 ##  Project Process
 
-1. **Data Collection** – Imported sales data into Power BI
+1. **Data Collection** – Imported business datasets into Power BI
 2. **Data Cleaning** – Processed and transformed data using Power Query
 3. **Data Modeling** – Built relationships between datasets
-4. **KPI Creation** – Developed DAX measures for sales and profit analysis
-5. **Dashboard Development** – Created interactive visuals and reports
+4. **KPI Creation** – Developed DAX measures for performance analysis
+5. **Dashboard Development** – Created interactive reports and visualizations
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Capstone Dashboard](dashboard.png)
 
 ##  Key Insights
 
-* Sales peaked in **March** and declined in **April**
-* Top-performing products generated major revenue
-* Sales growth fluctuated across months
-* Performance varied against monthly targets
+* Identified important business trends and KPI patterns
+* Improved visibility into performance metrics
+* Enabled better monitoring of operational efficiency
+* Supported data-driven business decisions
 
 ##  Conclusion
 
-This dashboard provides a clear overview of **sales performance, profit trends, and product analysis**, helping businesses improve decision-making through **interactive data visualization in Power BI**.
-
+This **Business Intelligence Capstone Dashboard** provides a comprehensive overview of business performance through **interactive visualizations, KPI tracking, and analytical insights**, enabling smarter and more effective decision-making using **Power BI**.
