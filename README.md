@@ -35,3 +35,11 @@ An interactive **EV Vehicle Analysis Dashboard** built to analyze **electric veh
 * Dashboard Development
 
 More projects will be added as I continue my **Power BI learning journey**.
+
+### 1. Sales Performance Dashboard
+
+An interactive Power BI dashboard for analyzing sales, profit, product performance, monthly trends, and target achievement.
+
+📁 Folder: `Sales-Performance-Dashboard`
+
+![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
