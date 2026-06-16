@@ -1,4 +1,4 @@
-#  Power BI Journey
+#  Power-BI Journey
 
 A collection of **Power BI projects, dashboards, and business intelligence case studies** showcasing my learning journey in **data analytics, visualization, and dashboard development**.
 
@@ -16,7 +16,13 @@ An interactive **Business Intelligence Capstone Dashboard** built to analyze **b
 
 📁 Folder: `Business-Intelligence-Capstone`
 
-### Skills Used
+### 3. EV Vehicle Analysis Dashboard
+
+An interactive **EV Vehicle Analysis Dashboard** built to analyze **electric vehicle adoption, manufacturer performance, market trends, and EV growth insights** using Power BI and data visualization techniques.
+
+📁 Folder: `EV-Vehicle-Analysis-Dashboard`
+
+##  Skills Used
 
 * Power BI
 * Power Query
