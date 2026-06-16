@@ -8,7 +8,7 @@ A collection of **Power BI projects, dashboards, and business intelligence case 
 
 An interactive Power BI dashboard for analyzing **sales, profit, product performance, monthly trends, and target achievement**.
 
-📁 Folder: `Sales_Performance_Dashboard`
+📁 Folder: `Sales-Performance-Dashboard`
 
 ![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
@@ -16,7 +16,7 @@ An interactive Power BI dashboard for analyzing **sales, profit, product perform
 
 An interactive **Business Intelligence Capstone Dashboard** built to analyze **business performance, KPIs, trends, and operational insights** using Power BI and data visualization techniques.
 
-📁 Folder: `Business-Intelligence-Capstone`
+📁 Folder: `Business-Intelligence-Capstone-Dashboard`
 
 ![Sales Dashboard](Business-Intelligence-Capstone-Dashboard/dashboard.png)
 
