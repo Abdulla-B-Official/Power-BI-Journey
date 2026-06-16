@@ -42,4 +42,4 @@ An interactive Power BI dashboard for analyzing sales, profit, product performan
 
 📁 Folder: `Sales-Performance-Dashboard`
 
-![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
+![Sales Dashboard](Sales_Performance_Dashboard/dashboard.png)
