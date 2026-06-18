@@ -4,21 +4,25 @@ A collection of **Power BI projects, dashboards, and business intelligence case 
 
 ##  Projects
 
-### 1. Sales Performance Dashboard
-
-An interactive Power BI dashboard for analyzing **sales, profit, product performance, monthly trends, and target achievement**.
-
-📁 Folder: `Sales-Performance-Dashboard`
-
-![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
-
-### 2. Business Intelligence Dashboard | Capstone Project
+### 1. Business Intelligence Dashboard | Capstone Project
 
 An interactive **Business Intelligence Capstone Dashboard** built to analyze **business performance, KPIs, trends, and operational insights** using Power BI and data visualization techniques.
 
 📁 Folder: `Business-Intelligence-Capstone-Dashboard`
 
-![Sales Dashboard](Business-Intelligence-Capstone-Dashboard/dashboard.png)
+![Business Intelligence Dashboard](Business-Intelligence-Capstone-Dashboard/dashboard.png)
+
+---
+
+### 2. Business Performance Dashboard
+
+An interactive **Business Performance Dashboard** built to analyze **business metrics, revenue trends, operational performance, and key business insights** using Power BI.
+
+📁 Folder: `Business-Performance-Dashboard`
+
+![Business Performance Dashboard](Business-Performance-Dashboard/dashboard.png)
+
+---
 
 ### 3. EV Vehicle Analysis Dashboard
 
@@ -26,8 +30,17 @@ An interactive **EV Vehicle Analysis Dashboard** built to analyze **electric veh
 
 📁 Folder: `EV-Vehicle-Analysis-Dashboard`
 
-![Sales Dashboard](EV-Vehicle-Analysis-Dashboard/dashboard.png)
+![EV Vehicle Dashboard](EV-Vehicle-Analysis-Dashboard/dashboard.png)
 
+---
+
+### 4. Sales Performance Dashboard
+
+An interactive Power BI dashboard for analyzing **sales, profit, product performance, monthly trends, and target achievement**.
+
+📁 Folder: `Sales-Performance-Dashboard`
+
+![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
 ##  Skills Used
 
