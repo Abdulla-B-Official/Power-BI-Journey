@@ -1,8 +1,8 @@
-# 📊 Power-BI Journey
+#  Power-BI Journey
 
 A collection of **Power BI projects, dashboards, and business intelligence case studies** showcasing my learning journey in **data analytics, visualization, and dashboard development**.
 
-## 🚀 Projects
+##  Projects
 
 ### 1. Business Intelligence Dashboard | Capstone Project
 
@@ -52,7 +52,7 @@ An interactive Power BI dashboard for analyzing **sales, profit, product perform
 
 ![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
-## 🛠️ Skills Used
+##  Skills Used
 
 * Power BI
 * Power Query
