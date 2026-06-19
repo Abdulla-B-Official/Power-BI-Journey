@@ -1,8 +1,8 @@
-#  Power-BI Journey
+# 📊 Power-BI Journey
 
 A collection of **Power BI projects, dashboards, and business intelligence case studies** showcasing my learning journey in **data analytics, visualization, and dashboard development**.
 
-##  Projects
+## 🚀 Projects
 
 ### 1. Business Intelligence Dashboard | Capstone Project
 
@@ -34,7 +34,17 @@ An interactive **EV Vehicle Analysis Dashboard** built to analyze **electric veh
 
 ---
 
-### 4. Sales Performance Dashboard
+### 4. Healthcare Analysis Dashboard
+
+An interactive **Healthcare Analysis Dashboard** built to analyze **patient demographics, treatment trends, hospital performance, and healthcare KPIs** using Power BI and data visualization techniques.
+
+📁 Folder: `Healthcare-Analysis-Dashboard`
+
+![Healthcare Dashboard](Healthcare-Analysis-Dashboard/dashboard.png)
+
+---
+
+### 5. Sales Performance Dashboard
 
 An interactive Power BI dashboard for analyzing **sales, profit, product performance, monthly trends, and target achievement**.
 
@@ -42,7 +52,7 @@ An interactive Power BI dashboard for analyzing **sales, profit, product perform
 
 ![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
-##  Skills Used
+## 🛠️ Skills Used
 
 * Power BI
 * Power Query
