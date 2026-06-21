@@ -52,6 +52,16 @@ An interactive Power BI dashboard for analyzing **sales, profit, product perform
 
 ![Sales Dashboard](Sales-Performance-Dashboard/dashboard.png)
 
+---
+
+### 6. Spotify Analysis Dashboard
+
+An interactive **Spotify Analysis Dashboard** built to analyze music trends, artist performance, track popularity, and listening insights using Power BI and data visualization techniques.
+
+📁 Folder: `Spotify-Analysis-Dashboard`
+
+![Spotify Dashboard](Spotify-Analysis-Dashboard/dashboard.png)
+
 ##  Skills Used
 
 * Power BI
