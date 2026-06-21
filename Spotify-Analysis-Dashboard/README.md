@@ -1,8 +1,8 @@
-# 🎵 Spotify Streaming Analysis Dashboard | Power BI
+#  Spotify Streaming Analysis Dashboard | Power BI
 
 An interactive **Power BI Dashboard** designed to analyze **Spotify streaming behavior, listening patterns, artist performance, album popularity, and track engagement metrics** using business intelligence and data visualization techniques.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The goal of this project is to analyze and monitor:
 
@@ -15,7 +15,7 @@ The goal of this project is to analyze and monitor:
 
 This dashboard helps uncover **streaming patterns and listener preferences** by transforming Spotify listening history into meaningful and actionable insights.
 
-## 📌 Key KPIs
+##  Key KPIs
 
 * **Total Albums Played**
 * **Total Artists Played**
@@ -34,7 +34,7 @@ This dashboard helps uncover **streaming patterns and listener preferences** by 
 * What is the relationship between listening time and track frequency?
 * Which albums and artists contribute most to overall listening activity?
 
-## ⚙️ Project Process
+##  Project Process
 
 ### 1. Data Collection
 
@@ -78,11 +78,11 @@ Built interactive visualizations including:
 * Platform Usage Filters
 * Detailed Drill-Through Tables
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Spotify Streaming Analysis Dashboard](dashboard.png)
 
-## 📈 Key Insights
+##  Key Insights
 
 * The majority of listening activity is concentrated among a small group of favorite artists and albums.
 * Streaming behavior varies significantly across different platforms and devices.
@@ -91,6 +91,6 @@ Built interactive visualizations including:
 * Popular artists consistently contribute to a large share of total streams.
 * Album-level analysis highlights long-term listening preferences.
 
-## ✅ Conclusion
+##  Conclusion
 
 This **Spotify Streaming Analysis Dashboard** provides a comprehensive view of music consumption behavior through **interactive visualizations, streaming analytics, artist performance tracking, and listening pattern analysis**. The dashboard enables users to better understand their music preferences and explore meaningful insights from Spotify streaming data using **Power BI**.
